@@ -1,0 +1,22 @@
+Aplikasi dibuka -> milih menu mau apa
+  1. Tebak Tokoh marvel
+  2. Tampil Kreasi marvel dari Tumblr
+  3. Liat daftar movie marvel yang tayang di bioskop (?)
+
+1. Tebak tokoh
+    - Ketampil gambar
+    - Milih via radio button/4 jendela panel
+    - kalo bener/salah ketampil sweeet alert
+    - terus ketampil keterangan dari tokoh tsb
+    - kalo next ke pertanyaan selanjutnya, kalo back kembali ke menu utama
+    - 1 kali permainan 5 pertanyaan.
+    - di akhir permainan ada score nya.
+2. Tampil kreasi
+   - Jadi Bakal ambil dari tumblr via tag marvel
+   - User bisa search juga, nanti dicariin sesuai tag
+   - ++ save gambar
+3. Tampil film marvel
+  - Nampilin film - film marvel
+  - tanggal, upcoming
+  - ++ review
+4. ++ Comic
